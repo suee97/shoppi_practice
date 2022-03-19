@@ -1,1 +1,0 @@
-shoppi_practice
