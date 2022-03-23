@@ -5,17 +5,23 @@
       <map>
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable-hdpi/selector_cart.xml" value="0.12" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/background_splash_screen.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/background_white.xml" value="0.24074074074074073" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/ic_gnb_back.xml" value="0.24351851851851852" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/ic_tabbar_home_off.xml" value="0.24537037037037038" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/ic_tabbar_home_on.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/selected_viewpager_indicator.xml" value="0.24074074074074073" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/selector_category_icon.xml" value="0.24537037037037038" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/selector_home_icon.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/selector_viewpager_indicator.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/drawable/unselected_viewpager_indicator.xml" value="0.24074074074074073" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/activity_product_detail.xml" value="0.264" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/fragment_art.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/fragment_cart.xml" value="0.264" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/fragment_category.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/fragment_product_detail.xml" value="0.2" />
+        <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/layout/item_home_banner.xml" value="0.264" />
         <entry key="..\:/Users/atn1s/Desktop/shoppi-android/app/src/main/res/menu/navigation_main_menu.xml" value="0.25364583333333335" />
       </map>
     </option>
